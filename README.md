@@ -21,12 +21,12 @@ I initially assumed that I could use the function like so:
 <br/>
 Referring to the "Theater Outcomes Based on Launch Date" figure, the failure rate for theater projects is overall the same throughout the year.
 May appears to be the best time of year to begin a theater-related kickstarter. In the same figure, we can also see that December has the lowest success rate. <br/><br/>
-  <img src="Theater_Outcomes_vs_Launch.png">
+  <img src="Resources/Theater_Outcomes_vs_Launch.png">
   
 <br/><br/>
 Referring to the "Outcomes based on Goals" figure, we can see that if the goal of the kickstarter campaign is over $45,000 USD, 
 then the success rate begins to drop significantly.<br/><br/>
-  <img src="Outcomes_vs_Goals.png">
+  <img src="Resources/Outcomes_vs_Goals.png">
 <br/><br/>
 Some limitations of this dataset is that it contains US kickstarter projects as the largest portion. 
 Other countries don't have the same amount of representation. For example, Singapore only has one project, and the UK has 366, compared to 1651 for the US.
