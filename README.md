@@ -28,8 +28,9 @@ Referring to the "Outcomes based on Goals" figure, we can see that if the goal o
 then the success rate begins to drop significantly.<br/><br/>
   <img src="Resources/Outcomes_vs_Goals.png">
 <br/><br/>
+  <h3>Limitations</h3>
 Some limitations of this dataset is that it contains US kickstarter projects as the largest portion. 
 Other countries don't have the same amount of representation. For example, Singapore only has one project, and the UK has 366, compared to 1651 for the US.
 <br/><br/>
-  <h3>Limitations</h3>
-Other potential figures that we could make is success rates for a given parent category per country, etc.
+<h3>Other Potential Figures</h3>
+Other potential figures that we could make for this dataset is success rates for a given parent category per country, etc. Perhaps something along the lines of theater outcomes for the UK. This way, we can see how different campaigns fared across individual countries - a single chart that contains all countries in the world may be too cluttered
