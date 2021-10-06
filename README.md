@@ -31,4 +31,5 @@ then the success rate begins to drop significantly.<br/><br/>
 Some limitations of this dataset is that it contains US kickstarter projects as the largest portion. 
 Other countries don't have the same amount of representation. For example, Singapore only has one project, and the UK has 366, compared to 1651 for the US.
 <br/><br/>
+  <h3>Limitations</h3>
 Other potential figures that we could make is success rates for a given parent category per country, etc.
